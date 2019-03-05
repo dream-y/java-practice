@@ -12,4 +12,7 @@ java beat practice
   * 集合
   * jvm
   * 多线程
-   
+    * AQS
+      * ReentrantLock
+      * Semaphore
+      * CountDownLatch
