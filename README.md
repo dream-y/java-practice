@@ -2,5 +2,8 @@
 java beat practice
 
 ## 多线程
-- AQS
+- AQS：
+-- ReentrantLock
+-- Semaphore
+-- CountDownLatch
 - 
