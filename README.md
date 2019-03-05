@@ -3,7 +3,7 @@ java beat practice
 
 ## 多线程
 - AQS：
--- ReentrantLock
--- Semaphore
--- CountDownLatch
-- 
+  - ReentrantLock
+  - Semaphore
+  - CountDownLatch
+
